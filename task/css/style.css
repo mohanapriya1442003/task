@@ -1,0 +1,42 @@
+html{
+	background-color: gray;
+}
+body{
+	width:80%;
+	margin: auto;
+	background-color: white;
+	text-align: center;
+}
+
+a{
+	text-align: center;
+	text-decoration: none;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+a:hover{
+	color:white;
+	background-color: green;
+}
+.login{
+	height: 100%;
+	width: 100%;
+	background-color: white;
+	margin: auto;
+	margin-top: 25%;
+	text-align: center;
+	padding: 5px;
+}
+.inputField{
+	height: 20px;
+
+}
+.btn{
+	width:10%;
+	height: 25px;
+	background-color: blue;
+	color:white;
+	border: 1px solid white;
+	border-radius: 5px;
+
+}
